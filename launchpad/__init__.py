@@ -1,0 +1,1 @@
+from launchpad.launch import get_github_url_for_snaps_with_completed_builds
