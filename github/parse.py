@@ -5,7 +5,7 @@ import urlparse
 
 import re
 
-_scriplets = ["prepare", "build", "install", "version_script"]
+_scriplets = ["prepare", "build", "install", "version-script"]
 _tar_type_regex = re.compile(r'.*\.((tar(\.(xz|gz|bz2))?)|tgz)$')
 
 
